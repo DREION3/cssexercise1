@@ -10,7 +10,6 @@ body {
   padding: 40px 20px;
 }
 
-/* Header Section Styling */
 .page-header {
   text-align: center;
   margin-bottom: 40px;
@@ -22,7 +21,6 @@ body {
   color: #111;
 }
 
-/* Responsive Grid Layout (Desktop: 3 cards per row) */
 .product-grid {
   display: grid;
   grid-template-columns: repeat(3, 300px); /* 3 cards per row, strictly 300px wide */
